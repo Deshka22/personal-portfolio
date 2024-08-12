@@ -1,0 +1,56 @@
+body {
+	margin: 20px;
+}
+.one {
+	background: rgb(120, 120, 120) ;
+	border-radius: 10px;
+
+}
+.first {
+	background: cornsilk;
+    text-align: center;
+    border-radius: 10px;
+}
+.second {
+	background: sandybrown; 
+	font-family: cursive;
+	color: yellow;
+}
+img {
+	width: 300px;
+	height: 250px;
+	border-radius: 100%;
+}
+input {
+	border-radius: 20px; 
+	background:yellow ; 
+	font-weight:bold ; 
+	font-size:20px ;
+}
+button {
+	border-radius: 20px; 
+	background:yellow ; 
+	font-weight:bold ;
+	font-size:20px ;
+}
+.tweet{
+	border-radius: 30px;
+	font-size: 20px;
+	font-display: block;
+	padding:10px;
+
+}
+
+ .main{
+     border-radius: 20px;
+     margin: 10px;
+     margin-right: 10px;
+     padding:20px
+     font-size: 35px;
+     font-weight: bold;
+     letter-spacing:5px;
+}
+ul {
+	display: inline;
+}
+
